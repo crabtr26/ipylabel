@@ -2,7 +2,13 @@ from setuptools import setup
 import versioneer
 
 requirements = [
-    # package requirements go here
+    'numpy',
+    'pandas',
+    'ipywidgets',
+    'bqplot',
+    'ipysheet',
+    'ipyvuetify',
+    'traitlets',
 ]
 
 setup(
