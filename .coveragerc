@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    ipylabel/__main__.py
+    ipylabel/_version.py
+    versioneer.py
+    tests/*
