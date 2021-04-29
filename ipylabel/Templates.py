@@ -3,7 +3,7 @@ import traitlets
 import ipyvuetify as v
 import json
 
-class PandasDataFrame(v.VuetifyTemplate):
+class Table(v.VuetifyTemplate):
     """
     Vuetify DataTable rendering of a pandas DataFrame
     

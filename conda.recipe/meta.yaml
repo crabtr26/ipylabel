@@ -46,6 +46,6 @@ test:
 
 about:
   home: https://github.com/crabtr26/ipylabel
-  summary: [An ipywidgets dashboard library for converting raw data sources into ML ready datasets.]
+  summary: An ipywidgets dashboard library for converting raw data sources into ML ready datasets.
   license: {{ data.get('license') }}
   license_file: LICENSE
